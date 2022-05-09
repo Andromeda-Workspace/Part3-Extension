@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "root", "root", "{33AE904A-A991-4F99-B99D-A1661C4C4E1F}"
+	ProjectSection(SolutionItems) = preProject
+		Manifest.json = Manifest.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{D21DE07D-6627-44DA-B52B-922831E6D289}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		script.js = script.js
+		Text.css = Text.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D21DE07D-6627-44DA-B52B-922831E6D289} = {33AE904A-A991-4F99-B99D-A1661C4C4E1F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A176CBDA-4433-4778-89A2-173A22175DF7}
+	EndGlobalSection
+EndGlobal

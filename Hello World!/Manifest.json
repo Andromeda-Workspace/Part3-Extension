@@ -1,0 +1,12 @@
+{
+  "name": "Andromeda",
+  "version": "1.0.0",
+  "description": "A search bar that can specify your needs!",
+  "manifest_version": 3,
+  "author": "Elijah",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Andromeda",
+    "inlineCritical": false
+  }
+}
